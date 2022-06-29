@@ -136,7 +136,7 @@ li a:hover {
 /*JUMBOTRON */
 
 .jumbocontainer {
-    background-image: url('images/jumbotron.jpeg');
+    background-image: url('images/jumbotronsmall.jpg');
     height: 600px;
     background-repeat: no-repeat;
     /* background-attachment: fixed; */
